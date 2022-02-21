@@ -1,4 +1,4 @@
-# NextJS \#33895 Reproduction
+# NextJS `outputFileTracingRoot` file tree Reproduction
 
 This repo is based on the Turborepo starter (to help stay on brand lol)
 
